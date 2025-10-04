@@ -5,22 +5,21 @@ export enum PageType {
   SEARCH = 'search',
   DEEP_RESEARCH = 'deepresearch',
   LABS = 'labs',
-  UNKNOWN = 'unknown'
+  UNKNOWN = 'unknown',
 }
 
 export enum LoadingState {
   LOADING = 'loading',
-  COMPLETE = 'complete'
+  COMPLETE = 'complete',
 }
 
 export enum MediaType {
   IMAGE = 'image',
   TABLE = 'table',
-  CODE = 'code'
+  CODE = 'code',
 }
 
 export interface Citation {
   title: string;
   url: string;
 }
-

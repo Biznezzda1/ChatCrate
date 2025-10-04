@@ -12,21 +12,20 @@ export async function executeWorkflow(
   try {
     // 1. 提取
     const extracted = await extract(document, pageContext.pageType);
-    
+
     // 2. 格式化
     const formatted = await format(extracted);
-    
+
     // 3. 导出
     const result = await exportToClipboard(formatted);
-    
+
     return result;
-  } catch (error: any) {
+  } catch (error) {
     return {
       success: false,
-      error: error.message || 'Workflow failed',
+      error: (error as Error).message || 'Workflow failed',
       errorCode: 'WORKFLOW_ERROR',
-      exportedAt: Date.now()
+      exportedAt: Date.now(),
     };
   }
 }
-
