@@ -8,7 +8,7 @@
     "jsx": "react-jsx",
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "types": ["@testing-library/jest-dom"],
+    "types": ["@testing-library/jest-dom", "chrome"],
     "paths": {
       "@/*": ["./src/*"]
     }
