@@ -1,6 +1,27 @@
 # ChatCrate
 
-Browser extension for exporting AI chat conversations to note-taking apps.
+![License](https://img.shields.io/github/license/thomaszdxsn/ChatCrate)
+![GitHub issues](https://img.shields.io/github/issues/thomaszdxsn/ChatCrate)
+![GitHub stars](https://img.shields.io/github/stars/thomaszdxsn/ChatCrate)
+
+> 🚀 A modern browser extension for exporting AI chat conversations to your favorite note-taking apps.
+
+## ✨ Current Features
+
+- 🎨 **Modern UI scaffold** built with React and TailwindCSS
+- ⚡ **Fast and lightweight** powered by WXT framework
+- 🧪 **Test setup** with initial coverage
+
+## 🚧 Planned Features / Roadmap
+
+- 🎯 **Extract conversations** from popular AI platforms (ChatGPT, Claude, Gemini, Perplexity)
+- 📝 **Multiple export formats** (Markdown, JSON, Tana Paste, HTML)
+- 🔌 **Integrations** with Notion, Obsidian, Readwise Reader, Tana
+- 🧪 **Comprehensive test coverage**
+
+## 📦 Project Status
+
+This is the **initial setup** with a minimal "Hello World" implementation. The core extraction and export features are planned for future releases.
 
 ## Prerequisites
 

@@ -10,4 +10,3 @@ if (root) {
     </React.StrictMode>
   );
 }
-

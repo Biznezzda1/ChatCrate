@@ -4,4 +4,3 @@ import '@/styles/tailwind.css';
 export default function App() {
   return <HelloWorld />;
 }
-
