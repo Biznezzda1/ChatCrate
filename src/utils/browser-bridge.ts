@@ -1,6 +1,7 @@
 // src/utils/browser-bridge.ts
 import { PageContext } from '../modules/extractor/types';
 import { detectPageType, detectLoadingState } from '../modules/extractor';
+import { PageType, LoadingState } from '../types/common';
 
 /**
  * 通过 content script 获取页面上下文
@@ -30,9 +31,9 @@ export async function getCurrentPageContext(): Promise<PageContext | null> {
             // Content script 可能未加载，返回 unknown
             resolve({
               url: tab.url || '',
-              pageType: 'unknown',
+              pageType: PageType.UNKNOWN,
               isSupported: false,
-              loadingState: 'complete',
+              loadingState: LoadingState.COMPLETE,
               detectedAt: Date.now()
             });
             return;
