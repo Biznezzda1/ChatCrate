@@ -6,14 +6,18 @@
 
 > 🚀 A modern browser extension for exporting AI chat conversations to your favorite note-taking apps.
 
-## ✨ Features
+## ✨ Current Features
+
+- 🎨 **Modern UI scaffold** built with React and TailwindCSS
+- ⚡ **Fast and lightweight** powered by WXT framework
+- 🧪 **Test setup** with initial coverage
+
+## 🚧 Planned Features / Roadmap
 
 - 🎯 **Extract conversations** from popular AI platforms (ChatGPT, Claude, Gemini, Perplexity)
 - 📝 **Multiple export formats** (Markdown, JSON, Tana Paste, HTML)
 - 🔌 **Integrations** with Notion, Obsidian, Readwise Reader, Tana
-- 🎨 **Modern UI** built with React and TailwindCSS
-- ⚡ **Fast and lightweight** powered by WXT framework
-- 🧪 **Well-tested** with comprehensive test coverage
+- 🧪 **Comprehensive test coverage**
 
 ## 📦 Project Status
 
